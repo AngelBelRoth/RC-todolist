@@ -1,22 +1,48 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# 📝 Sakura Themed TODO List
 
-### Goal: Build a Simple Todo List
+[![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### How to submit your code for review:
+> Sakura-themed To-Do List app built with Javascript — designed to boost productivity.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+---
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+##� Overview
+
+**Sakura Themed TODO List** is a responsive, single-page web application that allows users to create, manage, and track their daily tasks efficiently.  
+It’s built with Javascript for fast performance and modern front-end development practices.
+
+---
+
+## ✨ Features
+
+- ✅ Add, edit, and delete tasks 
+- 🧭 Filter tasks (All / Active / Completed)  
+
+---
+
+## 🧩 Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| **JavaScript (ES6+)** | Core language |
+| **CSS** | Styling and layout |
+
+
+---
+
+<img width="1600" height="795" alt="Angel-todolist" src="https://github.com/user-attachments/assets/3493952f-cf32-444c-a8eb-f0da0baa8178" />
+<img width="1600" height="782" alt="Screenshot 2025-11-10 at 19 48 36" src="https://github.com/user-attachments/assets/d6015888-e73c-42c8-8e7a-3c1b854f95d4" />
+
+---
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/AngelBelRoth/app-todolist.git
+
+# Navigate to the project folder
+cd app-todolist
+
+# Install dependencies
+npm install
